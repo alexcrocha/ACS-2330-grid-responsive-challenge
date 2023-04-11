@@ -145,7 +145,7 @@ label {
 
 /* Tablets */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
   .dashboard {
     grid-template-areas:
       "title title title"
@@ -164,10 +164,6 @@ label {
     height: 20px;
     font-size: 0.5rem;
   }
-}
-
-@media screen and (max-height: 600px) {
-
 }
 
 /* Mobile */
